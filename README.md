@@ -1,2 +1,3 @@
 # practica1
-practica1
+
+mi primer repositorio GitHub
